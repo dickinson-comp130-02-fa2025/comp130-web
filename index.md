@@ -2,8 +2,8 @@
 
 *Under construction*
 
-* [Syllabus](syllabus-5-12-2025.docx) -- _incomplete, will be updated_
-* [Overview Schedule](comp130-schedule-5-13-2025.xlsx)  &nbsp;&nbsp;&nbsp;<font color="green">UPDATED on 11/12/2023</font>
+* [Syllabus](syllabus-5-13-2025.docx)
+* [Overview Schedule](comp130-schedule-5-13-2025.xlsx)  <!-- &nbsp;&nbsp;&nbsp;<font color="green">UPDATED on 11/12/2023</font> -->
 <!-- * [Detailed schedule and resources](resources) -->
 <!-- * [Textbook (Think Python)](https://greenteapress.com/wp/think-python-2e/) -->
 <!-- * [Homework assignments](hw) -->
@@ -23,4 +23,4 @@
 
 
 ----
-Last modified: Tue May 13 05:11:18 UTC 2025 by jmac.
+Last modified: Tue May 13 05:36:23 UTC 2025 by jmac.
