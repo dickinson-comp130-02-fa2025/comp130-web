@@ -4,13 +4,13 @@
 
 * [Syllabus](syllabus-5-13-2025.docx)
 * [Overview Schedule](comp130-schedule-5-13-2025.xlsx)  <!-- &nbsp;&nbsp;&nbsp;<font color="green">UPDATED on 11/12/2023</font> -->
-<!-- * [Detailed schedule and resources](resources) -->
-<!-- * [Textbook (Think Python)](https://greenteapress.com/wp/think-python-2e/) -->
+* [Detailed schedule and resources](resources)
+* Textbook: _Think Python_, 3rd edition. [Home page](https://greenteapress.com/wp/think-python-3rd-edition/); [online version](https://allendowney.github.io/ThinkPython/); [pdf version]().
 <!-- * [Homework assignments](hw) -->
 <!-- * [Labs](labs) -->
 <!-- * [How do I get help in this course?](help.md) -->
 <!-- * [Exams](exams.md)&nbsp;&nbsp;&nbsp;<font color="green">UPDATED on 12/3/2023</font> -->
-<!-- * [Supplementary study guide](study-guide/study-guide-11-2-2023.docx) &nbsp;&nbsp;&nbsp;<font color="green">UPDATED on 11/2/2023</font> -->
+* [Supplementary study guide](study-guide/study-guide-5-13-2025.docx) &nbsp;&nbsp;&nbsp;<font color="green">UPDATED on 11/2/2023</font>
 <!-- * [Moodle](https://lms.dickinson.edu/course/view.php?id=52046) -->
 <!-- * [Python Standard Library](https://docs.python.org/3/library/index.html) reference at python.org -->
 <!--   - [string -->
@@ -23,4 +23,4 @@
 
 
 ----
-Last modified: Tue May 13 05:36:23 UTC 2025 by jmac.
+Last modified: Tue May 13 20:27:58 UTC 2025 by jmac.
