@@ -5,7 +5,7 @@
 * [Syllabus](syllabus-5-13-2025.docx)
 * [Overview Schedule](comp130-schedule-5-14-2025.xlsx)  <!-- &nbsp;&nbsp;&nbsp;<font color="green">UPDATED on 11/12/2023</font> -->
 * [Detailed schedule and resources](resources)
-* Textbook: _Think Python_, 3rd edition. [Home page](https://greenteapress.com/wp/think-python-3rd-edition/); [online version](https://allendowney.github.io/ThinkPython/); [pdf version]().
+* Textbook: _Think Python_, 3rd edition. [Home page](https://greenteapress.com/wp/think-python-3rd-edition/); [online version](https://allendowney.github.io/ThinkPython/); [pdf version](textbook/think-python-concatenated.pdf).
 <!-- * [Homework assignments](hw) -->
 <!-- * [Labs](labs) -->
 <!-- * [How do I get help in this course?](help.md) -->
@@ -23,4 +23,4 @@
 
 
 ----
-Last modified: Wed May 14 02:38:59 UTC 2025 by jmac.
+Last modified: Wed May 14 08:46:13 UTC 2025 by jmac.
