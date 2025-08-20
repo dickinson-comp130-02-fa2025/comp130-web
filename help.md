@@ -4,10 +4,6 @@
 
 - **QRAs for our course:** Our QRAs, Anne Pham and Fox Becker, will attend lab sessions to assist with questions about the lab or other aspects of the course.
 
-- **Quantitative Reasoning Center:** You can book a tutoring appointment with a qualified QRA for our course, and there are also some drop-in hours. Details are available at the [Quantitative Reasoning Center website](https://www.dickinson.edu/homepage/1785/quantitative_reasoning_center).
+- **[Quantitative Reasoning Center](https://www.dickinson.edu/homepage/1785/quantitative_reasoning_center):** You can book a tutoring appointment with a qualified QRA for our course, and there are also some drop-in hours. Details are available at the link above.
 
-- **Instructor's office hours:** Drop in any time during the
-  instructor's [office
-  hours](https://users.dickinson.edu/~jmac/office-hours.html). No
-  appointment is necessary. Alternatively, make an appointment for
-  another time outside of office hours.
+- **[Instructor's office hours](https://users.dickinson.edu/~jmac/office-hours.html):** Drop in any time during the instructor's office hours. No appointment is necessary. Alternatively, make an appointment for another time outside of office hours. Details are available at the link above.
