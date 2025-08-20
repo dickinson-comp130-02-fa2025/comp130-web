@@ -9,7 +9,5 @@
   years ago - tech companies are still making the same
   mistake](https://theconversation.com/i-unintentionally-created-a-biased-ai-algorithm-25-years-ago-tech-companies-are-still-making-the-same-mistake-203734),
   by J. MacCormick. The Conversation, May 9, 2023
-* For class 16: [Transforming Tech Skills into a Social Good
-  Career](https://blog.udacity.com/2016/10/transforming-tech-skills-social-good-career.html)
-  by Christopher Watkins, Udacity, 10/04/2016.
+* For class 16: 
   ["Computing and society: a few false dichotomies"](https://lms.dickinson.edu/mod/resource/view.php?id=1357121), by Richard Blumenthal.  _ACM SIGCAS Computers and Society_ 50.1 (2021): 27-28.
