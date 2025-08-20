@@ -1,7 +1,7 @@
 # Readings
 
 * For class 10: [Chapter
-  1](https://lms.dickinson.edu/mod/resource/view.php?id=1216927) of
+  1](https://lms.dickinson.edu/mod/resource/view.php?id=1357120) of
   *Nine Algorithms That Changed the Future: The Ingenious Ideas That
   Drive Today's Computers* by J. MacCormick (Princeton University
   Press, 2012).
@@ -12,3 +12,4 @@
 * For class 16: [Transforming Tech Skills into a Social Good
   Career](https://blog.udacity.com/2016/10/transforming-tech-skills-social-good-career.html)
   by Christopher Watkins, Udacity, 10/04/2016.
+  ["Computing and society: a few false dichotomies"](https://lms.dickinson.edu/mod/resource/view.php?id=1357121), by Richard Blumenthal.  _ACM SIGCAS Computers and Society_ 50.1 (2021): 27-28.
