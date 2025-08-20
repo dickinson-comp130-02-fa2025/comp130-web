@@ -1,6 +1,6 @@
 # Lab partners
 
-Lab 8 partners (new partners)
+<!-- Lab 8 partners (new partners)
 
 
 | partner 1         | partner 2          |
@@ -127,26 +127,19 @@ Lab 2 partners (mostly the same as Lab 1):
 | Kate Mackin       | Son Nguyen         |
 | Minh Le           | Tumi Olanrewaju    |
 | Leah Ho           | Zaana Gurung       |
-| Kevin Tran        |
-
-
+| Kevin Tran        | -->
 
 Lab 1 partners (assigned randomly):
 
-| partner 1         | partner 2          |
-|-------------------|--------------------|
-| Arthur Trinh      | Liam Roberts       |
-| Ashley Groff      | Anne Pham          |
-| Ben Brandt        | Maxwell Collins    |
-| Fathima Mohammadi | Nam Nguyen         |
-| Harrison Nguyen   | Nishtha Sharma     |
-| Heeryung Choi     | Olivia Hobbs       |
-| HyunYoung Cho     | Paul MacDonald     |
-| Jenna Nowland     | Phu Nguyen         |
-| Jessie Pham       | Phuong Thao Nguyen |
-| Kate Mackin       | Son Nguyen         |
-| Kevin Tran        | Tumi Olanrewaju    |
-| Leah Ho           | Zaana Gurung       |
-| Max Abah          |
-
+| partner 1         | partner 2       |
+| ----------------- | --------------- |
+| PJ Ruggiero       | Elian Vera      |
+| Samraj Shrestha   | Linh Truong     |
+| Alex Johnson      | Jack Rickelman  |
+| Sofia Taroncher   | Sea Smith       |
+| Hillary Andrade   | Owen Siegel     |
+| Caleb Oliver      | Ava Schneider   |
+| Salma Olivares    | Norah Oppenheim |
+| Tucker Bovard     | Matteus Fontes  |
+| Rayyan Madraswala | Amelia Bache    |
 

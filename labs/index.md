@@ -4,11 +4,12 @@
 
 Lab instructions:
 
-* [lab 1 instructions](lab01-v2.docx) &nbsp;&nbsp;&nbsp;<font color="red">UPDATED on 8/30/2023</font>
-  - grading policy: This lab is ungraded.
+* [lab 1 instructions](lab01.docx) 
+<!-- &nbsp;&nbsp;&nbsp;<font color="red">UPDATED on 8/30/2023</font> -->
+  - This lab is ungraded.
 * [lab 2 instructions](lab02.docx)
-  - grading policy: As announced during lab, questions 5, 6, and 8 are
-    optional.
+  <!-- - grading policy: As announced during lab, questions 5, 6, and 8 are
+    optional. -->
 * [lab 3 instructions](lab03.docx)
   - grading policy: As announced during lab, the required content of
     the lab is question 1 and *part of* question 2. Specifically, for

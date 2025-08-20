@@ -15,8 +15,8 @@ in the order of the assignment.
 Assignments:
 
 *   [homework assignment 1](hw1.docx)
-*   [homework assignment 2](hw2-v2.docx) &nbsp;&nbsp;&nbsp;<font color="red">UPDATED on 9/8/2023</font>
-*   [homework assignment 3](hw3.docx)
+*   [homework assignment 2](hw2.docx) 
+<!-- *   [homework assignment 3](hw3.docx)
 *   [homework assignment 4](hw4-v2.docx) &nbsp;&nbsp;&nbsp;<font color="red">UPDATED on 9/21/2023</font> (added hints)
 *   [homework assignment 5](hw5.docx)
 *   [homework assignment 6](hw6.docx)
@@ -24,4 +24,4 @@ Assignments:
 *   [homework assignment 8](hw8.docx)
 *   [homework assignment 9](hw9-v2.docx)
 *   [homework assignment 10](hw10.docx)
-*   [homework assignment 11](hw11.docx), [uszips.csv](uszips.csv)
+*   [homework assignment 11](hw11.docx), [uszips.csv](uszips.csv) -->
