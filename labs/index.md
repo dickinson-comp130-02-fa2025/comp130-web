@@ -20,7 +20,7 @@ Lab instructions:
   homework solutions, previous labs, the course textbook, the course
   website, Moodle, external sites linked directly from the course
   homepage (including Python standard library, Turtle documentation,
-  graphics.py documentation).
+  `graphics.py` documentation).
   - You may not consult any other external website.
   - You may not perform web searches.
   - You may not use any other tools such as artificial intelligence
