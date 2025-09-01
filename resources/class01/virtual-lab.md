@@ -19,7 +19,11 @@
 
 7.  If you have time, paste in more code and experiment with it. For example, try this:
 
-
+```
+topic = input('What is/was your first year seminar topic? ')
+print('Nice!!', topic, 'sounds interesting.')
+```
+Or this:
 ```
 import math
 x = math.sqrt(2)
