@@ -4,7 +4,7 @@
 
 2. Click on the `Python` link.
 
-3. Make Onedrive available in your Virtual Lab machine. (You will only have to do this once. In future when you access the Virtual Lab, OneDrive will automatically be available.) Click and approve My Files in the bar above the main desktop display:
+3. Make OneDrive available in your Virtual Lab machine. (You will only have to do this once. In future when you access the Virtual Lab, OneDrive will automatically be available.) Click and approve My Files in the bar above the main desktop display:
             ![location of My Files button](my-files.png)
 
 4. In the Windows search bar (bottom left), search for `IDLE` and choose `IDLE Python 3.13 64-bit`.
