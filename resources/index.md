@@ -1,5 +1,20 @@
 # Detailed schedule and resources
 
+## Class 2
+
+1. Answer questions on syllabus. Especially note the 5 exam dates.
+
+2. Demo: AI can easily do your homework assignments. But it's a really bad idea to rely on it, because you won't have AI in the exams.
+
+3. Interactive textbook: You can interact with the textbook by reading it in the form of _Jupyter notebooks_. Links to the notebooks are on the very first page of the textbook. 
+
+4. We will review concepts in the assigned reading, including some of the following: interpreter, prompt, operators, type (this is what I usually call a datatype), bugs and debugging, variable, assignment statement, state diagram, variable names, keywords, input.
+
+5. [If time allows.] Download Python from [python.org](https://www.python.org/), launch IDLE, run some programs (see suggestions in class 1).
+
+
+
+
 ## Class 1
 
 * [In-class activity: Create COMP130 folder on OneDrive](class01/onedrive.md)

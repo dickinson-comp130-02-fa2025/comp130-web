@@ -2,6 +2,8 @@
 
 [Lab partners](partners.md)
 
+[Pair programming](pair-programming.md)
+
 Lab instructions:
 
 <!-- &nbsp;&nbsp;&nbsp;<font color="red">UPDATED on 8/30/2023</font> -->

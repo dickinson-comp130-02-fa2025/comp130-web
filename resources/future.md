@@ -358,30 +358,3 @@
 <!-- Example programs: [area.py](class03/area.py), [ask_question.py](class03/ask_question.py) -->
 
 
-<!-- ## Class 2 -->
-
-<!-- We will review the concepts in the assigned reading, then look ahead -->
-<!-- to some things needed in the afternoon lab: commenting out code; the -->
-<!-- distinction between executing code via the console and running Python -->
-<!-- scripts. -->
-
-<!-- Here are a couple of clarifications of the assigned reading material: -->
-<!-- * In this course, we use Python 3 (not Python 2), the same as -->
-<!--   recommended by the textbook. -->
-<!-- * For running Python in a web browser, the textbook author recommends -->
-<!--   [pythonanywhere.com](https://www.pythonanywhere.com/). Another good -->
-<!--   option is [replit.com](https://replit.com), which we played around -->
-<!--   with in the last class meeting. -->
-<!-- * *However*, in this course we will mostly be learning to write -->
-<!--   programs using files on our own computer and running Python on our -->
-<!--   own computer (not in the cloud inside a web browser). For this, you -->
-<!--   should use the IDLE editor. This comes bundled with a standard -->
-<!--   Python download, which is available at -->
-<!--   [python.org](https://www.python.org/) -->
-
-<!-- Pair programming will be discussed if we have time, otherwise we can -->
-<!-- talk about it in lab. Key ideas: -->
-<!-- * There are two roles, *driver* and *navigator*. The driver uses the -->
-<!--   keyboard and mouse to write and run code, whereas the navigator -->
-<!--   assists by making suggestions. -->
-<!-- * You must switch roles at least every 30 minutes. -->
