@@ -8,7 +8,7 @@ Lab instructions:
 
 <!-- &nbsp;&nbsp;&nbsp;<font color="red">UPDATED on 8/30/2023</font> -->
 
-* [lab 1 instructions](lab01.docx) 
+* [lab 1 instructions](lab01-v2.docx) &nbsp;&nbsp;&nbsp;<font color="red">UPDATED on 9/3/2025, make sure you have `lab01-v2.docx`</font>
   - This lab is ungraded.
 <!-- * [lab 2 instructions](lab02.docx) -->
 <!-- * [lab 3 instructions](lab03.docx) -->
