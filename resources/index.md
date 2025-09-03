@@ -17,7 +17,7 @@
 
 ## Class 1
 
-* [In-class activity: Create COMP130 folder on OneDrive](class01/onedrive.md)
+* [In-class activity: Create COMP130 folder on OneDrive](class01/onedrive.md) &nbsp;&nbsp;&nbsp;<font color="red">UPDATED on 9/3/2025 -- extra step to install OneDrive app</font>
 
 
 * [In-class activity: Run a Python program in IDLE on a Dickinson Virtual Lab machine](class01/virtual-lab.md)
