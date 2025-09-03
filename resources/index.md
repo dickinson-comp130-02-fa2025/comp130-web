@@ -8,7 +8,7 @@
 
 3. Interactive textbook: You can interact with the textbook by reading it in the form of _Jupyter notebooks_. Links to the notebooks are on the very first page of the textbook. 
 
-4. We will review concepts in the assigned reading, including some of the following: interpreter, prompt, operators, type (this is what I usually call a datatype), bugs and debugging, variable, assignment statement, state diagram, variable names, keywords, input.
+4. We will review concepts in the assigned reading, including some of the following: arithmetic operator, type (this is what I usually call a _datatype_), expression, function, function call, bugs and debugging, variable, assignment statement, state diagram, `input()`.
 
 5. [If time allows.] Download Python from [python.org](https://www.python.org/), launch IDLE, run some programs (see suggestions in class 1).
 
