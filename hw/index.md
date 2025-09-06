@@ -12,7 +12,7 @@ Assignments must be submitted in hard copy. Handwritten solutions are
 acceptable. Questions must be clearly numbered and must be presented
 in the order of the assignment.
 
-Assignments:
+## Assignments:
 
 *   [homework assignment 1](hw1.docx)
 *   [homework assignment 2](hw2.docx) 
@@ -25,3 +25,7 @@ Assignments:
 <!-- *   [homework assignment 9](hw9-v2.docx) -->
 <!-- *   [homework assignment 10](hw10.docx) -->
 <!-- *   [homework assignment 11](hw11.docx), [uszips.csv](uszips.csv) -->
+
+## Solutions
+
+Solutions to homework assignments are available in the [Homework solutions section](https://lms.dickinson.edu/course/section.php?id=306854) on Moodle.

@@ -13,6 +13,8 @@ Plan for today: We will go over some key concepts from the assigned
 reading, especially how to define new functions and how to generate
 random numbers.
 
+Code: [border.py](border.py)
+
 
 ## Class 3
 
