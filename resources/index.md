@@ -1,5 +1,19 @@
 # Detailed schedule and resources
 
+## Class 4
+
+Important note about the teaching style in this course: Many concepts
+will not be covered during our lecture session. It is essential to
+read the textbook carefully and ask questions on any content you don't
+understand. For example, the assigned reading for Class 3 included the
+important concept of *comments*, but we did not discuss
+that during class.
+
+Plan for today: We will go over some key concepts from the assigned
+reading, especially how to define new functions and how to generate
+random numbers.
+
+
 ## Class 3
 
 * Make sure that you have Show File Extensions turned on in your
