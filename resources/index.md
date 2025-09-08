@@ -13,7 +13,7 @@ Plan for today: We will go over some key concepts from the assigned
 reading, especially how to define new functions and how to generate
 random numbers.
 
-Code: [border.py](border.py)
+Code: [border.py](class04/border.py), [roll_dice.py](class04/roll_dice.py)
 
 
 ## Class 3
