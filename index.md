@@ -6,6 +6,7 @@
 * Textbook: _Think Python_, 3rd edition. [Home page](https://greenteapress.com/wp/think-python-3rd-edition/); [online version](https://allendowney.github.io/ThinkPython/); [pdf version](textbook/think-python-concatenated.pdf).
 * [Homework assignments](hw)
 * [Labs](labs)
+* Zoom link for when class is online: [https://zoom.us/my/johnmaccormick](https://zoom.us/my/johnmaccormick). Meeting ID: 398 215 6590.
 * [How do I get help in this course?](help.md)
 * [Exams](exams.md)
 * [Supplementary study guide](study-guide-9-6-2025.docx) &nbsp;&nbsp;&nbsp;<font color="red">UPDATED on 9/6/2023</font>
