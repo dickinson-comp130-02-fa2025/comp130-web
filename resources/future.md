@@ -291,14 +291,3 @@
 <!-- in class): [graphics_demo.py](class06/graphics_demo.py) -->
 
 
-<!-- ## Class 5 -->
-
-<!-- Agenda for today's class: -->
-<!-- 1. We'll go over the supplementary study guide content about `for` -->
-<!--    loops, which explains how to use the loop variable. -->
-<!-- 2. We'll begin working through the textbook exercises in section 4.3. -->
-
-<!-- Useful tip: Learn how to use IDLE's Indent Region and Dedent Region -->
-<!-- features, in the Format menu. -->
-
-
