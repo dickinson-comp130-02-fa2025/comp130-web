@@ -1,6 +1,6 @@
 # Labs
 
-[Lab partners](partners.md)
+[Lab partners](lab-partners.md)
 
 [Pair programming](pair-programming.md)
 
