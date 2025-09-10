@@ -10,7 +10,8 @@ Lab instructions:
 
 * [lab 1 instructions](lab01-v2.docx) &nbsp;&nbsp;&nbsp;<font color="red">UPDATED on 9/3/2025, make sure you have `lab01-v2.docx`</font>
   - This lab is ungraded.
-<!-- * [lab 2 instructions](lab02.docx) -->
+* [lab 2 instructions](lab02.docx)
+  - Please feel free to read over the lab in advance, but don't start working on it before the lab session. It's important to work on it with your partner.
 <!-- * [lab 3 instructions](lab03.docx) -->
 <!-- * [lab 4 instructions](lab04.docx) -->
 <!-- * [lab 5 instructions](lab05.docx)  -->
