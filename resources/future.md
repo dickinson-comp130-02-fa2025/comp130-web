@@ -275,19 +275,4 @@
 <!-- programming language: [Potion making](https://scratch.mit.edu/projects/889677445), by Scratch user [cc196](https://scratch.mit.edu/users/cc196/). Click on "See inside" then "Backdrops 1" to see a lot of nested `if/else`s -->
 
 
-<!-- ## Class 6 -->
-
-<!-- Today we cover Sections 4-7 of the supplementary study guide: nested -->
-<!-- `for` loops; constructors; `graphics.py`; methods and dot notation. -->
-
-<!-- Just for interest: if you want to find out about one of the areas of -->
-<!-- computer science that I'm interested in, check out today's episode -->
-<!-- (September 8) of a radio show called The Academic Minute, which is -->
-<!-- broadcast on about 70 radio stations in North America. It's also -->
-<!-- available as a podcast: [The Academic Minute NPR -->
-<!-- podcast](https://www.npr.org/podcasts/564572329/the-academic-minute) -->
-
-<!-- Code from class (slightly improved version compared to what was shown -->
-<!-- in class): [graphics_demo.py](class06/graphics_demo.py) -->
-
 
