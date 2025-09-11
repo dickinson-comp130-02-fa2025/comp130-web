@@ -5,7 +5,7 @@
 Today we cover Sections 4-8 of the supplementary study guide: nested
 `for` loops; `range()`; constructors; `graphics.py`; methods and dot notation.
 
-Code: [graphics_demo.py](class06/graphics_demo.py); other code from today was copied directly from the study guide.
+Code: [graphics_demo.py](class06/graphics_demo.py), [grid.py](class06/grid.py); other code from today was copied directly from the study guide.
 
 
 
