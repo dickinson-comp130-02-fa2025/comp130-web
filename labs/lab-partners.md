@@ -14,6 +14,7 @@
 | Ava Schneider | Samraj Shrestha |
 | Owen Seveland | Sofia Taroncher |
 | Sea Smith | Teresa Sunthang |
+| Anushka Sharma | Dylan Elder |
 | Norah Oppenheim | |
 | Rayyan Madraswala | |
 
