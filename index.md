@@ -9,15 +9,15 @@
 * Zoom link for when class is online: [https://zoom.us/my/johnmaccormick](https://zoom.us/my/johnmaccormick). Meeting ID: 398 215 6590.
 * [How do I get help in this course?](help.md)
 * [Exams](exams.md)
-* [Supplementary study guide](study-guide-9-6-2025.docx) &nbsp;&nbsp;&nbsp;<font color="red">UPDATED on 9/6/2023</font>
+* [Supplementary study guide](study-guide-9-6-2025.docx) 
+<!-- &nbsp;&nbsp;&nbsp;<font color="red">UPDATED on 9/6/2025</font> -->
 * [Moodle](https://lms.dickinson.edu/course/view.php?id=65019)
 * [Python Standard Library](https://docs.python.org/3/library/index.html) reference at python.org
   - [string methods](https://docs.python.org/3/library/stdtypes.html#string-methods), in the Python Standard Library
   - [Turtle graphics](https://docs.python.org/3/library/turtle.html), also in the Python Standard Library
-* `graphics.py` module [documentation](https://mcsp.wartburg.edu/zelle/python/graphics/graphics/graphref.html), [code](https://mcsp.wartburg.edu/zelle/python/graphics.py), [author's Python page](https://mcsp.wartburg.edu/zelle/python/)
+* `graphics.py` module, authored by John M. Zelle:  &nbsp;&nbsp;&nbsp;<font color="red">UPDATED on 9/12/2025</font>
+  - The Python source code is available as [`graphics.py`](zelle-graphics/graphics.py).
+  - The documentation is available as [`graphics.pdf`](zelle-graphics/graphics.pdf).
 * [Readings](readings.md)
 * [Acknowledgment](acknowledgment.md)
 
-
-----
-Last modified: Thu Aug 21 12:43:52 UTC 2025 by jmac.
