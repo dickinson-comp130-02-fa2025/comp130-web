@@ -27,7 +27,7 @@ def feet_to_miles8(num_feet):
         print(num_feet, 'feet is the same as', miles, 'miles and', remaining_feet, 'feet.')
 
 
-def feet_to_miles8(num_feet):
+def feet_to_miles9(num_feet):
     feet_in_mile = 5280
     miles = num_feet // feet_in_mile
     remaining_feet = num_feet % feet_in_mile
@@ -55,3 +55,4 @@ feet_to_miles7(50000)
 feet_to_miles8(7000)
 feet_to_miles8(3 * 5280)
 
+feet_to_miles9(5280 + 200)

@@ -247,19 +247,6 @@
 
 <!-- Also Boolean variables and parameters -- see SSG11. -->
 
-<!-- ## Class 8 -->
-
-<!-- We cover cascading conditional statements and nested conditional -->
-<!-- statements. Example Python code: [convert_miles2.py](class08/convert_miles2.py) -->
-
-<!-- We will also go over sections 8 to 10 of the supplementary study -->
-<!-- guide, which are needed for lab this afternoon. -->
-
-<!-- Please take a look at the extra question that is in the solutions of -->
-<!-- homework assignment 2. You need to understand how to answer this type -->
-<!-- of question (distinguishing between function calls in a module and -->
-<!-- method calls on an object). -->
-
 
 
 
