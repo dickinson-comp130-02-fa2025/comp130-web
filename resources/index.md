@@ -5,8 +5,7 @@
 We cover cascading conditional statements and nested conditional
 statements. Example Python code: [convert_miles2.py](class08/convert_miles2.py)
 
-We will also go over sections 8 to 10 of the supplementary study
-guide, which are needed for lab this week.
+We will also go over sections 9 to 11 of the supplementary study guide, which are needed for lab this week.
 
 
 
