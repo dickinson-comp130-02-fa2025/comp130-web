@@ -38,12 +38,12 @@ def feet_to_miles9(num_feet):
         print("I don't need to convert that!")
     elif remaining_feet == 0:
         if miles == 1:
-            print(num_feet, 'feet is the same as exactly', miles, 'mile')
+            print(num_feet, 'feet is the same as exactly one mile')
         else:
             print(num_feet, 'feet is the same as exactly', miles, 'miles')
     else:
         if miles == 1:
-            print(num_feet, 'feet is the same as', miles, 'mile and', remaining_feet, 'feet.')
+            print(num_feet, 'feet is the same as one mile and', remaining_feet, 'feet.')
         else:
             print(num_feet, 'feet is the same as', miles, 'miles and', remaining_feet, 'feet.')
 
