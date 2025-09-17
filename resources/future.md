@@ -233,20 +233,4 @@
 
 <!-- Social/Ethical discussion I. See Readings web page. -->
 
-<!-- ## Class 9 -->
-
-<!-- Mostly review of chained and nested conditional statements.  -->
-<!-- We want to write a function `decide(hungry, tired)` that prints output according to -->
-
-<!-- |             |  hungry     | not hungry   | -->
-<!-- |-------------|-------------|--------------| -->
-<!-- |**tired**    |get takeout  | sleep        | -->
-<!-- |**not tired**|cook dinner  | watch Netflix| -->
-
-<!-- Example code: (try to figure out for yourself?) [decide.py](class09/decide.py) -->
-
-<!-- Also Boolean variables and parameters -- see SSG11. -->
-
-
-
 

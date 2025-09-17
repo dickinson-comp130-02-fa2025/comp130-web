@@ -12,7 +12,7 @@ We want to write a function `decide(hungry, tired)` that prints output according
 
 Example code: (try to figure out for yourself?) [decide.py](class09/decide.py)
 
-Also Boolean variables and parameters -- see SSG11.
+Also Boolean variables and parameters -- see SSG12.
 
 
 
