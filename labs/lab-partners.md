@@ -13,9 +13,10 @@
 | Caleb Oliver | Anushka Sharma |
 | PJ Ruggiero | Ava Schneider |
 | Owen Seveland | Tucker Bovard |
-| Sea Smith | Sofia Taroncher |
 | Teresa Sunthang | Linh Truong |
 | Elian Vera | Norah Oppenheim |
+| Sofia Taroncher | |
+| Sea Smith | |
 
 ## Lab 2 (mostly the same as Lab 1)
 
