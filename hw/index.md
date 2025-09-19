@@ -16,7 +16,7 @@ in the order of the assignment.
 
 *   [homework assignment 1](hw1.docx)
 *   [homework assignment 2](hw2.docx) 
-<!-- *   [homework assignment 3](hw3.docx) -->
+*   [homework assignment 3](hw3.docx)
 <!-- *   [homework assignment 4](hw4-v2.docx) &nbsp;&nbsp;&nbsp;<font color="red">UPDATED on 9/21/2023</font> (added hints) -->
 <!-- *   [homework assignment 5](hw5.docx) -->
 <!-- *   [homework assignment 6](hw6.docx) -->
