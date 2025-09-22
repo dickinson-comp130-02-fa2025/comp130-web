@@ -1,5 +1,10 @@
 # Detailed schedule and resources
 
+## Class 10
+
+Social/Ethical discussion I. See Readings web page.
+
+
 ## Class 9
 
 Announcements about homework:
