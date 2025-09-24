@@ -224,9 +224,6 @@
 <!-- * Review of void and fruitful functions. -->
 
 
-<!-- ## Class 11 -->
-
-<!-- Demo code: [debug_demo.py](class11/debug_demo.py), [callstack_demo.py](class11/callstack_demo.py) -->
 
 
 
