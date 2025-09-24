@@ -1,5 +1,24 @@
 # Detailed schedule and resources
 
+## Class 12
+
+Announcement:
+* The reading for Monday is available on the Readings page.
+* For this type of discussion class, you are expected read the assigned content carefully and take a few handwritten notes that you can bring to class and refer to during our device-free discussion.
+ 
+Topics for today's class:
+* Informal discussion of the *scope* of a variable: most variables and
+  parameters are *local*.
+* Review of call stack and debugging.
+* Printing on the same line from multiple `print()` statements.
+* Preview of void and fruitful functions.
+
+
+
+
+
+
+
 ## Class 11
 
 Demo code: [debug_demo.py](class11/debug_demo.py), [callstack_demo.py](class11/callstack_demo.py)

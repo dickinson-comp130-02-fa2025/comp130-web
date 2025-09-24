@@ -207,24 +207,4 @@
 <!-- Social/Ethical discussion II. See Readings web page. -->
 
 
-<!-- ## Class 12 -->
-
-<!-- Announcements: -->
-<!-- * The reading for Monday is available on the Readings page. -->
-<!-- * Updated version of HW4 is available (same questions, but with -->
-<!--   some additional hints and clarifications). -->
-  
-<!-- Topics for today's class: -->
-<!-- * Overview of how to book an appointment with a QR tutor at the [QR -->
-<!--   center](https://www.dickinson.edu/info/20525/quantitative_reasoning_center/2962/quantitative_reasoning_center). -->
-<!-- * Informal discussion of the *scope* of a variable: most variables and -->
-<!--   parameters are *local*. -->
-<!-- * Review of call stack and debugging. -->
-<!-- * Printing on the same line from multiple `print()` statements. -->
-<!-- * Review of void and fruitful functions. -->
-
-
-
-
-
 

@@ -17,7 +17,7 @@ in the order of the assignment.
 *   [homework assignment 1](hw1.docx)
 *   [homework assignment 2](hw2.docx) 
 *   [homework assignment 3](hw3.docx)
-*   [homework assignment 4](hw4.docx)
+*   [homework assignment 4](hw4-v2.docx) &nbsp;&nbsp;&nbsp;<font color="red">UPDATED on 9/24/2025 &mdash; make sure you have the v2 version</font>
 <!-- *   [homework assignment 5](hw5.docx) -->
 <!-- *   [homework assignment 6](hw6.docx) -->
 <!-- *   [homework assignment 7](hw7.docx) -->
