@@ -13,7 +13,7 @@ Lab instructions:
 * [lab 2 instructions](lab02.docx)
   - Please feel free to read over the lab in advance, but don't start working on it before the lab session. It's important to work on it with your partner.
 * [lab 3 instructions](lab03.docx)
-<!-- * [lab 4 instructions](lab04.docx) -->
+* [lab 4 instructions](lab04.docx)
 <!-- * [lab 5 instructions](lab05.docx)  -->
 <!-- * practice lab exam: This is ungraded practice for next week's lab exam. Feel free to take it under realistic exam conditions, or to ask for help, whichever is most useful for you. For reference, here are the exam conditions for the lab exam: -->
   <!-- - You can consult course materials, your own notes, homework, homework solutions, previous labs, the course textbook, the course website, Moodle, external sites linked directly from the course homepage (including Python standard library, Turtle documentation, `graphics.py` documentation). -->
