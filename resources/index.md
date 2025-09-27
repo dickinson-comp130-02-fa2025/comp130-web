@@ -1,5 +1,11 @@
 # Detailed schedule and resources
 
+## Class 13
+
+Social/Ethical discussion II. See Readings web page.
+
+
+
 ## Class 12
 
 Announcement:

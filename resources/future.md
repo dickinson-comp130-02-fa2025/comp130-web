@@ -202,9 +202,5 @@
 
 
 
-<!-- ## Class 13 -->
-
-<!-- Social/Ethical discussion II. See Readings web page. -->
-
 
 
