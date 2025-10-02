@@ -1,4 +1,4 @@
-def course_uses_math(course_code: str):
+def course_uses_math(course_code):
     if course_code.startswith('MATH') or course_code.startswith('COMP') or course_code.startswith('DATA'):
         print(course_code, 'uses math')
     elif course_code == 'ECON298':
@@ -10,18 +10,20 @@ def course_uses_math(course_code: str):
 
 
 def print_course_code(subject, number):
-    print('Course code is', subject.upper() + str(number))
+    course_code = subject.upper() + str(number)
+    print('Course code is', course_code)
 
 
-# course_uses_math('COMP130')
-# course_uses_math('MATH171')
-# course_uses_math('ECON298')
-# course_uses_math('INBM220')
-# course_uses_math(130)
-# course_uses_math('130')
+course_uses_math('COMP130')
+##course_uses_math('MATH171')
+##course_uses_math('ECON298')
+##course_uses_math('INBM220')
+##course_uses_math(130)
+##course_uses_math('130')
+##
+##print_course_code('comp', 130)
+##print_course_code(130, 'comp')
+##print_course_code('comp', '130')
+##print_course_code('comp', 99)
 
-# print_course_code('comp', 130)
-# print_course_code(130, 'comp')
-# print_course_code('comp', '130')
-# print_course_code('comp', 99)
 

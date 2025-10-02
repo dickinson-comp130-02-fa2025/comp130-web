@@ -181,12 +181,6 @@
 <!-- * [Notes on social good in computing, including open source software](class16/social-ethical-III-notes.md). -->
 
 
-<!-- ## Class 15 -->
-
-<!-- Code for demonstrating guardians: -->
-<!-- * [no_guardian.py](class15/no_guardian.py) -->
-<!-- * [guardian.py](class15/guardian.py) -->
-
 
 
 

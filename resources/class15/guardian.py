@@ -1,4 +1,4 @@
-def course_uses_math(course_code: str):
+def course_uses_math(course_code):
     assert isinstance(course_code, str), 'course code must be a string'
     assert not course_code.isdigit(), 'course code may not be all digits'
     if course_code.startswith('MATH') or course_code.startswith('COMP') or course_code.startswith('DATA'):
@@ -17,15 +17,16 @@ def print_course_code(subject, number):
     print('Course code is', subject.upper() + str(number))
 
 
-# course_uses_math('COMP130')
-# course_uses_math('MATH171')
-# course_uses_math('ECON298')
-# course_uses_math('INBM220')
-# course_uses_math(130)
-# course_uses_math('130')
+course_uses_math('COMP130')
+##course_uses_math('MATH171')
+##course_uses_math('ECON298')
+##course_uses_math('INBM220')
+##course_uses_math(130)
+##course_uses_math('130')
+##
+##print_course_code('comp', 130)
+##print_course_code(130, 'comp')
+##print_course_code('comp', '130')
+##print_course_code('comp', 99)
 
-# print_course_code('comp', 130)
-# print_course_code(130, 'comp')
-# print_course_code('comp', '130')
-# print_course_code('comp', 99)
-
+##
