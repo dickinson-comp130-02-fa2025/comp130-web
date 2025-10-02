@@ -5,17 +5,18 @@
 | Student 1 | Student 2 |
 |-----------|-----------|
 | Dylan Elder | Amelia Bache |
-| Matteus Fontes | Anushka Sharma |
 | Virginia Hargraves | PJ Ruggiero |
 | Alex Johnson | Ava Schneider |
 | Rayyan Madraswala | Hillary Andrade |
 | Caleb Oliver | Jack Rickelman |
 | Owen Siegel | Salma Olivares |
-| Sea Smith | Tucker Bovard |
 | Teresa Sunthang | Jennette Hoang |
 | Sofia Taroncher | Linh Truong |
 | Elian Vera | Owen Seveland |
-| Samraj Shrestha | |
+| Anushka Sharma | Samraj Shrestha |
+| Sea Smith | |
+| Tucker Bovard | |
+| Matteus Fontes | |
 | Norah Oppenheim | |
 
 ## Lab 4 (same as Lab 3)
