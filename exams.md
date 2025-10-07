@@ -1,5 +1,7 @@
 # Exams
 
+It will be possible to retake an exam under certain conditions. See the separate [Exam retakes page](./retakes.md).
+
 ## Written exam 1
 
 The exam covers topics 1-5 and Social/Ethical I and II. Most questions
