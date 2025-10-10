@@ -158,27 +158,8 @@
 <!--   - [make_cheer_completed.py](class20/make_cheer_completed.py) -->
 
 
-<!-- ## Class 19 -->
-
-<!-- * Advising discussion for course selection. Please see the [notes on course selection](class19/course-selection.docx). -->
-<!-- * Code introducing the idea of recursion: [recursion_example.py](class19/recursion_example.py) -->
-
-<!-- ## Class 18 -->
-
-<!-- Written exam 1 -->
-
-<!-- ## Class 17 -->
-
-<!-- Exam review -->
 
 
-<!-- ## Class 16 -->
-
-<!-- Social/Ethical class III: Social good in computing. Some students were -->
-<!-- absent for legitimate reasons and requested notes on the class -->
-<!-- content, so these notes are being made available to all students out -->
-<!-- of fairness: -->
-<!-- * [Notes on social good in computing, including open source software](class16/social-ethical-III-notes.md). -->
 
 
 
