@@ -1,5 +1,25 @@
 # Detailed schedule and resources
 
+
+## Class 19
+
+* Advising discussion for course selection. Please see the [notes on course selection](class19/course-selection.docx).
+* Code introducing the idea of recursion: [recursion_example.py](class19/recursion_example.py)
+
+## Class 18
+
+Written exam 1
+
+## Class 17
+
+Exam review
+
+
+## Class 16
+
+Social/Ethical class III: Social good in computing. Notes about our discussion are available on Moodle. The article for discussion is available on the Readings web page. The in-class discussion also encompassed open-source software, focusing on the following five open-source products: Linux (operating system), MySQL (database), Apache HTTP Server (web server), OpenMRS (medical records system), OpenStreetMap (mapping system).
+
+
 ## Class 15
 
 Code for demonstrating guardians:
