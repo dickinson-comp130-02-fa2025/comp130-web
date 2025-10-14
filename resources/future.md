@@ -151,12 +151,6 @@
 <!--   - [recursion_practice.py](class21/recursion_practice.py) -->
   
 
-<!-- ## Class 20 -->
-
-<!-- * Code for fruitful function examples: -->
-<!--   - [make_cheer.py](class20/make_cheer.py) -->
-<!--   - [make_cheer_completed.py](class20/make_cheer_completed.py) -->
-
 
 
 
