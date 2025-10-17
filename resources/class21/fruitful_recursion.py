@@ -9,4 +9,7 @@ def sum_of_squares(n):
         return new_sum
 
 
-sum_of_squares(3)
+k = 3
+s = sum_of_squares(k)
+print("The sum of the squares from 1 to", k, "is:", s)
+      
