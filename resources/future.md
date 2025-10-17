@@ -141,14 +141,6 @@
 <!--   - [test_demo.py](class22/test_demo.py) -->
 
 
-<!-- ## Class 21 -->
-
-<!-- * Please read the instructions for Lab 6 and complete the required -->
-<!--   preparation before the start of our next lab session. -->
-
-<!-- * Code for fruitful recursion examples: -->
-<!--   - [fruitful_recursion.py](class21/fruitful_recursion.py) -->
-<!--   - [recursion_practice.py](class21/recursion_practice.py) -->
   
 
 
