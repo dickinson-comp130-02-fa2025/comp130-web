@@ -21,7 +21,7 @@ Lab instructions:
   - You may not consult any other external website.
   - You may not perform web searches.
   - You may not use any other tools such as artificial intelligence assistance for programming, online forums, or any other form of assistance.
-<!-- * [lab 6 instructions](lab06.docx), [lab 6 materials](lab06-materials.zip) **please read in advance, some preparatory work is needed for this lab** -->
+* [lab 6 instructions](lab06.docx), [lab 6 materials](lab06-materials.zip) **please read in advance, some preparatory work is needed for this lab -- complete the first page before the lab begins**
 <!-- * [lab 7 instructions](lab07.docx), [lab 7 materials](lab07-materials.zip)  -->
 <!-- * [lab 8 instructions](lab08.docx), [lab 8 materials](lab08-materials.zip)  -->
 <!-- * [lab exam 2 review](labexam2-review.docx) -->
