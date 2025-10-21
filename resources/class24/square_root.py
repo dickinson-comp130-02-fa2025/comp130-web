@@ -2,7 +2,7 @@ import math
 
 
 def square_root(a):
-    """Return the square root of a, using the method described in textbook section 7.5"""
+    """Return the square root of a, using Newton's method"""
     eps = 1e-8
     x = a / 2  # initial guess for the square root
     while True:

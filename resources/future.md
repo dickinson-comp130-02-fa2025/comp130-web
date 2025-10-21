@@ -112,7 +112,7 @@
 <!-- * We continue from Class 23, covering the `break` keyword -->
 <!-- * The rest of the class presents two examples of interesting -->
 <!--   algorithms:  -->
-<!--   1. finding square roots using Newton's method (from textbook section 7.5); -->
+<!-- 1. finding square roots using [Newton's method](https://en.wikipedia.org/wiki/Newton%27s_method) (scroll to "Use of Newton's method to compute square roots" on that page) -->
 <!--   2. solving an equation using the [bisection -->
 <!--      method](https://en.wikipedia.org/wiki/Bisection_method). -->
 <!-- * _Note that detailed knowledge of these algorithms is not required for -->
@@ -131,28 +131,6 @@
 <!--   - [while_loops.py](class23/while_loops.py) -->
 <!--   - [while_loops_solution.py](class23/while_loops_solution.py) -->
 <!--   - [practice_killing_python.py](class23/practice_killing_python.py) -->
-
-
-
-<!-- ## Class 22 -->
-
-<!-- * Please complete the anonymous [mid-semester survey](https://forms.office.com/Pages/ResponsePage.aspx?id=VbAyYrl2E0ybiLVirn22-2zFL4dI9oNMmoALudp-AK9UN01YVUk5SFdGQjZXQkJMWFBNMjJZSlFDUS4u). -->
-<!-- * Code for demonstrating test functions: -->
-<!--   - [test_demo.py](class22/test_demo.py) -->
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
 
 
 

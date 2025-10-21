@@ -1,5 +1,13 @@
 # Detailed schedule and resources
 
+## Class 22
+
+* Please complete the anonymous [mid-semester survey](https://forms.office.com/r/RTknmZrKPH).
+* Code for demonstrating test functions:
+  - [test_demo.py](class22/test_demo.py)
+
+
+
 ## Class 21
 
 
