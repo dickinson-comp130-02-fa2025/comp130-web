@@ -14,8 +14,9 @@
 | Sofia Taroncher | Linh Truong |
 | Elian Vera | Owen Seveland |
 | Anushka Sharma | Samraj Shrestha |
-| Sea Smith | Tucker Bovard | 
-| Matteus Fontes | Norah Oppenheim | 
+| Sea Smith | Matteus Fontes | 
+| Norah Oppenheim | |
+| Tucker Bovard | |
 
 ## Lab 5 (new partners)
 
