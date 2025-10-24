@@ -125,12 +125,6 @@
 <!--   - [solve_by_bisection.py](class24/solve_by_bisection.py) -->
 <!--   - [solve_by_bisection_completed.py](class24/solve_by_bisection_completed.py) -->
 
-<!-- ## Class 23 -->
-
-<!-- * Code for demonstrating while loops: -->
-<!--   - [while_loops.py](class23/while_loops.py) -->
-<!--   - [while_loops_solution.py](class23/while_loops_solution.py) -->
-<!--   - [practice_killing_python.py](class23/practice_killing_python.py) -->
 
 
 
