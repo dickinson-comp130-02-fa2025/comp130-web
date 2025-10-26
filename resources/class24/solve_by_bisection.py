@@ -44,6 +44,9 @@ def test_solve_f_eq_0():
     eps = 1e-6
     assert abs(solution - calculated) < eps
     print('test_solve_f_eq_0 succeeded')
+    # In this course, we do not permit additional print statements in tests, but 
+    # the following are used as an in-class demo to show the difference between 
+    # the true solution and our calculated solution.
     print('true solution:', solution)
     print('solution via bisection:', calculated)
 
