@@ -1,10 +1,12 @@
 # We will practice various techniques to find and fix
-# the bugs. See textbook sections 1.7, 2.8, 3.12, 4.10, 5.12, 6.9, 7.7.
+# the bugs. See textbook sections 1.7, 2.9, 3.9, 4.9, 5.12, 6.10.
 
 # This get_price() example comes from HW6. There are some bugs here.
 # Reminder from HW6: ages 12 and 65 should get child/senior discount.
 # Age 18 gets no discount.
 def get_price(age, price):
+    assert isinstance(age, int), "Age must be an integer"
+    assert age >= 0, "Age cannot be negative"
     if age < 12 or age > 65:
         child_and_senior_price = price * 0.5
         return child_and_senior_price
@@ -37,3 +39,5 @@ def test_add_multiples_of_3():
     # Writing good tests is part of good debugging practice.
     # Maybe we need to write some good tests here to help our debugging?
 
+# test_get_price()
+# print(get_price(12, 10.00))
