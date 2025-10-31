@@ -94,11 +94,6 @@
 
 
 
-<!-- ## Class 26 -->
-
-<!-- * Code for string indexing, slices, and iteration: -->
-<!--   - [string_practice.py](class26/string_practice.py) -->
-<!--   - [string_practice_completed.py](class26/string_practice_completed.py) -->
 
 
 
