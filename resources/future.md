@@ -52,45 +52,40 @@ Exam  review session.
   - [list_basics_completed.py](class31/list_basics_completed.py)
 
 
-<!-- ## Class 30 -->
+## Class 30
 
-<!-- * Code for CSV files: -->
-<!--   - [courses.csv](class30/courses.csv) -->
-<!--   - [csv_demos.py](class30/csv_demos.py) -->
-<!--   - [csv_demos_solution.py](class30/csv_demos_solution.py) -->
+* Code for CSV files:
+  - [courses.csv](class30/courses.csv)
+  - [csv_demos.py](class30/csv_demos.py)
+  - [csv_demos_solution.py](class30/csv_demos_solution.py)
 
-<!-- ## Class 29 -->
+## Class 29
 
-<!-- * Here is a link to the crosswords file mentioned in the textbook: -->
-<!--   - [https://www.gutenberg.org/files/3201/files/CROSSWD.TXT](https://www.gutenberg.org/files/3201/files/CROSSWD.TXT) -->
-<!--   - We won't use the crosswords file in class, but you can use it to -->
-<!--     understand the textbook properly and do the optional textbook -->
-<!--     exercises. -->
-<!-- * Here is a file containing two poems that we will use in class: -->
-<!--   - [two-poems.txt](class29/two-poems.txt) -->
-<!-- * In class we will work on tasks such as: -->
-<!--   - print the first line of the poems file -->
-<!--   - print the first five lines of the poems file -->
-<!--   - save every second line in a new file called `some-lines.txt` -->
-<!--   - print the two lines that tell us the authors of the poems (they begin with "BY") -->
-<!--   - find the empty line separating the two poems and print its line number -->
-<!--   - save the first poem in a new file called `first-poem.txt`, and the second poem in a new file called `second-poem.txt` -->
-<!-- * Solutions to the first few tasks above are available: -->
-<!--   - [file_challenge_solutions.py](class29/file_challenge_solutions.py) -->
-
-
-<!-- ## Class 28 -->
-
-<!-- * More string method challenges: -->
-<!--   - [more_string_methods.py](class28/more_string_methods.py) -->
-<!--   - [more_string_methods_completed.py](class28/more_string_methods_completed.py) -->
+* Here is a link to the crosswords file mentioned in the textbook:
+  - [https://www.gutenberg.org/files/3201/files/CROSSWD.TXT](https://www.gutenberg.org/files/3201/files/CROSSWD.TXT)
+  - We won't use the crosswords file in class, but you can use it to
+    understand the textbook properly and do the optional textbook
+    exercises.
+* Here is a file containing two poems that we will use in class:
+  - [two-poems.txt](class29/two-poems.txt)
+* In class we will work on tasks such as:
+  - print the first line of the poems file
+  - print the first five lines of the poems file
+  - save every second line in a new file called `some-lines.txt`
+  - print the two lines that tell us the authors of the poems (they begin with "BY")
+  - find the empty line separating the two poems and print its line number
+  - save the first poem in a new file called `first-poem.txt`, and the second poem in a new file called `second-poem.txt`
+* Solutions to the first few tasks above are available:
+  - [file_challenge_solutions.py](class29/file_challenge_solutions.py)
 
 
-<!-- ## Class 27 -->
+## Class 28
 
-<!-- * Code for string methods: -->
-<!--   - [string_methods.py](class27/string_methods.py) -->
-<!--   - [string_methods_completed.py](class27/string_methods_completed.py) -->
+* More string method challenges:
+  - [more_string_methods.py](class28/more_string_methods.py)
+  - [more_string_methods_completed.py](class28/more_string_methods_completed.py)
+
+
 
 
 
