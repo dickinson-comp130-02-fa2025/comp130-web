@@ -62,7 +62,7 @@ Exam  review session.
 ## Class 29
 
 * Here is a link to the crosswords file mentioned in the textbook:
-  - [https://www.gutenberg.org/files/3201/files/CROSSWD.TXT](https://www.gutenberg.org/files/3201/files/CROSSWD.TXT)
+  - [https://www.gutenberg.org/files/3201/files/crosswd.txt](https://www.gutenberg.org/files/3201/files/crosswd.txt)
   - We won't use the crosswords file in class, but you can use it to
     understand the textbook properly and do the optional textbook
     exercises.
