@@ -6,6 +6,7 @@
   - [string_methods.py](class27/string_methods.py)
   - [string_methods_completed.py](class27/string_methods_completed.py)
 
+* Form for answering challenges: [https://forms.office.com/r/rfqaM6aM5S](https://forms.office.com/r/rfqaM6aM5S)
 
 ## Class 26
 
