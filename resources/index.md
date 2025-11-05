@@ -1,5 +1,14 @@
 # Detailed schedule and resources
 
+## Class 28
+
+* More string method challenges:
+  - [more_string_methods.py](class28/more_string_methods.py)
+  - [more_string_methods_completed.py](class28/more_string_methods_completed.py)
+
+Menti link: [https://www.menti.com/ald4cndhica4](https://www.menti.com/ald4cndhica4)
+
+
 ## Class 27
 
 * Code for string methods:
