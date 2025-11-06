@@ -53,12 +53,12 @@ def do_list_operations_and_methods():
     t3.sort()
     print('t3:', t3)
 
-# challenge 4: write this method. Hint: see textbook section 10.3.
+# challenge 4: write this method.
 def print_even_numbers(t):
     """t is a list of integers. This method prints the elements of t that are even."""
     pass
 
-# challenge 5: write this method. Hint: see textbook section 10.3.
+# challenge 5: write this method.
 def add_10_to_each(t):
     """t is a list of integers. This method adds 10 to each element of t."""
     pass
