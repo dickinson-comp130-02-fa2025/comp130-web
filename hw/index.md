@@ -22,7 +22,7 @@ in the order of the assignment.
 *   [homework assignment 6](hw6.docx)
 *   [homework assignment 7](hw7.docx)
 *   [homework assignment 8](hw8.docx)
-<!-- *   [homework assignment 9](hw9-v2.docx) -->
+*   [homework assignment 9](hw9.docx)
 <!-- *   [homework assignment 10](hw10.docx) -->
 <!-- *   [homework assignment 11](hw11.docx), [uszips.csv](uszips.csv) -->
 
