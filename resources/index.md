@@ -1,8 +1,19 @@
 # Detailed schedule and resources
 
-## Class 29
+## Class 30
 
 * **Announcement**: 7pm on Tuesday Nov 18th in Althouse 106: Prof Lev Fruchter (who also teaches COMP130) will be screening _Inception_, Christopher Nolan's sci-fi thriller -- which is also an interesting model of recursion (Prof  Fruchter will explain!). Students from the other COMP130 sections will be there. All welcome.  
+
+
+* Code for CSV files:
+  - [courses.csv](class30/courses.csv)
+  - [csv_demos.py](class30/csv_demos.py)
+  - [csv_demos_solution.py](class30/csv_demos_solution.py)
+
+
+
+## Class 29
+
 
 * Here is a link to the crosswords file mentioned in the textbook:
   - [https://www.gutenberg.org/files/3201/files/crosswd.txt](https://www.gutenberg.org/files/3201/files/crosswd.txt)
