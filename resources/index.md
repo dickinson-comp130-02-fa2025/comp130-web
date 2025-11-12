@@ -1,5 +1,14 @@
 # Detailed schedule and resources
 
+
+## Class 31
+
+* Code for list basics:
+  - [list_basics.py](class31/list_basics.py)
+  - [list_basics_completed.py](class31/list_basics_completed.py)
+
+
+
 ## Class 30
 
 * **Announcement**: 7pm on Tuesday Nov 18th in Althouse 106: Prof Lev Fruchter (who also teaches COMP130) will be screening _Inception_, Christopher Nolan's sci-fi thriller -- which is also an interesting model of recursion (Prof  Fruchter will explain!). Students from the other COMP130 sections will be there. All welcome.  
