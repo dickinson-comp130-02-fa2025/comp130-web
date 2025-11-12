@@ -50,8 +50,17 @@ def graduation_year(status: str, semester: str, current_year: int):
 
 
 def test_graduation_year():
-    # challenge: complete this method
-    pass
+    assert graduation_year('senior', 'fall', 2023) == 2024
+    assert graduation_year('senior', 'spring', 2019) == 2019
+    assert graduation_year('junior', 'fall', 2010) == 2012
+    assert graduation_year('junior', 'spring', 2023) == 2024
+    assert graduation_year('sophomore', 'spring', 2023) == -1, \
+        'sophomore should be invalid'
+    assert graduation_year('junior', 'summer', 2023) == -1, \
+        'summer should be invalid'
+    assert graduation_year('Senior', 'SPRING', 2019) == 2019, \
+        'failed with uppercase letters'
+    print('test_graduation_year succeeded')
 
 
 def add_1000_times(increment):
