@@ -1,5 +1,23 @@
 # COMP 131 Lab Partners
 
+## Lab 8 (mostly the same as Lab 7)
+
+| Student 1 | Student 2 |
+|-----------|-----------|
+| Hillary Andrade | Ava Schneider |
+| Dylan Elder | Samraj Shrestha |
+| Alex Johnson | Tucker Bovard |
+| Rayyan Madraswala | Virginia Hargraves |
+| PJ Ruggiero | Jack Rickelman |
+| Owen Seveland | Jennette Hoang |
+| Anushka Sharma | Matteus Fontes |
+| Caleb Oliver |
+| Teresa Sunthang | Norah Oppenheim |
+| Sofia Taroncher | Owen Siegel |
+| Linh Truong | Amelia Bache |
+| Elian Vera | Salma Olivares |
+
+
 ## Lab 7 (new partners)
 
 | Student 1 | Student 2 |
