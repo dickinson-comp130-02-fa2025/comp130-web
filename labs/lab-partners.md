@@ -10,7 +10,8 @@
 | Rayyan Madraswala | Virginia Hargraves |
 | PJ Ruggiero | Jack Rickelman |
 | Owen Seveland | Jennette Hoang |
-| Anushka Sharma | Matteus Fontes |
+| Anushka Sharma | 
+| Matteus Fontes |
 | Caleb Oliver |
 | Teresa Sunthang | Norah Oppenheim |
 | Sofia Taroncher | Owen Siegel |
