@@ -1,5 +1,5 @@
 # This file demonstrates three common patterns for processing lists: reduce, map, filter.
-# See textbook section 10.7.
+# See SSG.
 
 ###############################################################################
 # 1. REDUCE pattern
