@@ -1,4 +1,4 @@
-# This file follows the textbook section 10.10, 10.11, and 10.12 closely.
+# This file follows the textbook section 9.9, 9.10, and 9.11 closely.
 
 # challenge 1: Draw a state diagram for this function
 def compare_strings():
