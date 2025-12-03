@@ -25,4 +25,4 @@ Lab instructions:
 * [lab 7 instructions](lab07.docx), [lab 7 materials](lab07-materials.zip) 
 * [lab 8 instructions](lab08.docx), [lab 8 materials](lab08-materials.zip) 
 * [lab exam 2 review](labexam2-review.docx)
-<!-- * [lab 9 instructions](lab09-final-project.docx), [lab 9 materials](lab09-materials.zip) -->
+* [lab 9 instructions](lab09-final-project.docx), [lab 9 materials](lab09-materials.zip)

@@ -4,6 +4,8 @@
 
 Announcement: a Cybersecurity Club will be starting up at Dickinson next semester. If you're interested in participating, please contact Eden Slawek, slaweks@dickinson.edu.
 
+See the [labs page](../labs/) for details of the final project (lab 9), which starts today.
+
 
 ## Class 38
 
