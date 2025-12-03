@@ -2,6 +2,8 @@
 
 ## Class 38
 
+Announcement: [Fall Internship Panel](https://dickinson0-my.sharepoint.com/:b:/g/personal/jmac_dickinson_edu/EYy1rizlxD9Eq4SEWWkrclgBWT8P2_F5voZ49wTlG9FP6A?e=KLOlCC), organized by Math/CS club -- Thu Dec 4, 4:45pm, Tome 115
+
 1. Exam review -- go over written exam 2
 2. Advanced dictionary topics:
    * dictionary of lists (last examinable topic)
