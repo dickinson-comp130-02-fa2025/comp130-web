@@ -1,5 +1,10 @@
 # Detailed schedule and resources
 
+## Class 40
+
+Lab exam 2 raw scores were curved upwards with the median rising a C+ to a B+. See the [explanation of curve](class40/curve.md) for details.
+
+
 ## Class 39
 
 Announcement: a Cybersecurity Club will be starting up at Dickinson next semester. If you're interested in participating, please contact Eden Slawek, slaweks@dickinson.edu.
