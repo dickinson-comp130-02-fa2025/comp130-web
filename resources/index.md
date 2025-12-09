@@ -1,5 +1,10 @@
 # Detailed schedule and resources
 
+## Class 41
+
+Exam review:
+* Objects, methods, and constructors: see [objects.py](class41/objects_review.py)
+
 ## Class 40
 
 * Lab exam 2 raw scores were curved upwards with the median rising a C+ to a B+. See the [explanation of curve](class40/curve.md) for details.
