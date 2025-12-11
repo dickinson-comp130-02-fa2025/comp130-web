@@ -1,5 +1,32 @@
 # COMP 131 Lab Partners
 
+## Lab 9 -- your choice of partner or work alone
+
+| Student 1 | Student 2 |
+|-----------|-----------|
+| **known pairs** |
+| Hillary Andrade | Amelia Bache |
+| Salma Olivares | Alex Johnson | 
+| Ava Schneider | Sofia Taroncher |
+| Owen Siegel | Jack Rickelman |
+| Dylan Elder | Owen Seveland | 
+| **known working alone** |
+| Matteus Fontes |
+| Elian Vera |
+| **unknown** |
+| Samraj Shrestha |
+| Tucker Bovard |
+| Rayyan Madraswala | 
+| Virginia Hargraves |
+| PJ Ruggiero |  
+| Jennette Hoang |
+| Anushka Sharma | 
+| Caleb Oliver |
+| Teresa Sunthang | 
+| Norah Oppenheim |
+| Linh Truong |
+
+
 ## Lab 8 (mostly the same as Lab 7)
 
 | Student 1 | Student 2 |
