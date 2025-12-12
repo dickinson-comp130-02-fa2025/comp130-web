@@ -10,21 +10,19 @@
 | Ava Schneider | Sofia Taroncher |
 | Owen Siegel | Jack Rickelman |
 | Dylan Elder | Owen Seveland | 
+| Jennette Hoang | Linh Truong |
+| Norah Oppenheim | Caleb Oliver |
 | **known working alone** |
 | Matteus Fontes |
 | Elian Vera |
-| **unknown** |
-| Samraj Shrestha |
-| Tucker Bovard |
-| Rayyan Madraswala | 
-| Virginia Hargraves |
-| PJ Ruggiero |  
-| Jennette Hoang |
 | Anushka Sharma | 
-| Caleb Oliver |
+| Rayyan Madraswala | 
+| Samraj Shrestha |
+| **unknown** |
+| Tucker Bovard |
+| Virginia Hargraves |
+| PJ Ruggiero |
 | Teresa Sunthang | 
-| Norah Oppenheim |
-| Linh Truong |
 
 
 ## Lab 8 (mostly the same as Lab 7)
